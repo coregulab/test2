@@ -19,8 +19,7 @@ class A{
   int z=x+y;
   char ch='x';
   Boolean isSub=true;
-
-  
+  double sal=10.0;
   System.out.println(z);
 
  }
