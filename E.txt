@@ -3,8 +3,10 @@ class B{
   int x=10;
   int y=30;
   boolean isVal=true;
+  char c='f';
   System.out.println(x+y);
  }
 
 }
+
 
