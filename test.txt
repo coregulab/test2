@@ -17,7 +17,10 @@ class A{
   int x=10;
   int y=20;
   int z=x+y;
+  char ch='x';
   Boolean isSub=true;
+
+  
   System.out.println(z);
 
  }
