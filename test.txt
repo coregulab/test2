@@ -20,8 +20,6 @@ class A{
   char ch='x';
   Boolean isSub=true;
   String name="mike";
-  System.out.println(name);
   System.out.println(z);
-
  }
 }
