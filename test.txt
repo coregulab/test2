@@ -11,3 +11,13 @@ Feature 1
 
 Welcome to Bengaluru.distance is 180000.Now again change.
 >>>>>>> Stashed changes
+
+class A{
+ public static void main(String[] args){
+  int x=10;
+  int y=20;
+  int z=x+y;
+  System.out.println(z);
+
+ }
+}
