@@ -4,6 +4,7 @@ class B{
   int y=30;
   boolean isVal=true;
   String n="mike";
+  char c='f';
   System.out.println(x+y);
  }
 
